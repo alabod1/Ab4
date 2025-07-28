@@ -1,6 +1,6 @@
 [
-  { "user": "felix", "pass": "Mods", "type": "vip" },
-  { "user": "ab", "pass": "1", "type": "vip" },
-  { "user": "ab1", "pass": "Mods", "type": "vip" },
-  { "user": "ab3", "pass": "Mods", "type": "vip" }
+  { "user": "felix", "pass": "1", "type": "vip" },
+  { "user": "binkal", "pass": "2", "type": "vip" },
+  { "user": "ab", "pass": "3", "type": "vip" },
+  { "user": "felix", "pass": "4", "type": "vip" }
 ]
